@@ -16,7 +16,7 @@ else:
     DEBUG = True
 
 # don't share this with anybody.
-SECRET_KEY = '{{ secret_key }}'
+SECRET_KEY = 'tbdofmdd$_^xjx6_(#^5f1u8d$8^%l&(k!_@lh4o35qsiu=h9z'
 
 
 DATABASES = {
@@ -86,8 +86,7 @@ DEMO_PAGE_INTRO_HTML = """
     </li>
 </ul>
 <p>
-    Aqui voy a poner en español Here are various games implemented with oTree. These games are all open
-    sigo haciendo cambios
+    Here are various games implemented with oTree. sigo modificando. These games are all open
     source, and you can modify them as you wish.
 </p>
 """
